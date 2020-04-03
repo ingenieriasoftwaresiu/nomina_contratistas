@@ -1,0 +1,168 @@
+/* 
+    Document   : index
+    Created on : 22-oct-2013, 15:53:05
+    Author     : jorge.correa
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*
+    ESTILOS DE LA BARRA DE ACCIONES
+*/
+
+.TABLAACCIONES{
+     width: 100%;
+}
+
+.USERLOGED{
+    font-family: "Candara";
+    font-size: 12px;
+    color: #116043;
+    text-align: left;
+    font-weight: bold;
+}
+
+.BOTONACCION{
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: bold;
+    background: #116043;
+    color: #FFFFFF;
+    border: 1px solid #116043;
+    height: 20px;
+    width: 90px;   
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #aaa;
+}
+
+.CELDAACCION{
+    text-align: center;    
+     vertical-align: middle;
+}
+
+.TABLANAVEGACION{
+    width: 100%;
+}
+
+/*
+    ESTILOS DEL MENÚ PRINCIPAL
+*/
+
+.CELDAMENU{
+    width: 300px;
+    vertical-align: top;
+}
+
+.CELDAESPACIO{
+    width: 50px;
+}
+
+.CELDAMOSTRAR{
+    text-align: center;
+}
+
+.TABLAMENU{
+    width: 250px;
+    border: 1px solid #116043;
+    box-shadow: 5px 5px 10px #aaa;
+}
+
+.TITULOMENU{
+    font-family: "Candara";
+    font-size: 13px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    background: #116043;   
+}
+
+.SUBTITULOMENU{
+    font-family: "Candara";
+    font-size: 13px;
+    font-weight: bold;
+    color: #116043;
+    text-align: center;
+    background: #83AD9E;   
+}
+
+.ITEMMENU{
+    font-family: "Candara";
+    font-size: 13px;
+    font-weight: normal;
+    color: #015637;
+    text-align: left;
+    background: #FFFFFF;
+    padding-left: 10px;
+}
+
+.ITEMMENU:hover{
+    background: #ECEBA3;
+    color: #116043;
+}
+
+a{
+    text-decoration: none;
+    color: #116043;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:linked{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #116043;
+}
+
+.SELECTED{
+     background: #ECEBA3;
+     font-weight: bold;
+}
+
+/*
+    ESTILOS DEL TEXTO DE INICIO
+*/
+
+.TABLAMSGINI{
+    width: 95%;
+    border: 1px dashed #116043;
+    height: 250px;
+   /* background: #EAEAEB;*/
+    box-shadow: 5px 5px 10px #aaa;
+    background-image: -moz-radial-gradient(center, ellipse closest-side, #FFFFFF 50%, #EAEAEB 100%);
+    background-image: -ms-radial-gradient(center, ellipse closest-side, #FFFFFF 50%, #EAEAEB 100%);
+    background-image: -webkit-radial-gradient(center, ellipse closest-side, #FFFFFF 50%, #EAEAEB 100%);
+    background-image: radial-gradient(center, ellipse closest-side, #FFFFFF 50%, #EAEAEB 100%);
+    
+    -ms-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+
+.CELDATITULOMSGINI{
+    font-family: "Candara";
+    font-size: 26px;
+    font-weight: bold;
+    color: #015637;
+    text-align: center;
+    vertical-align: bottom;
+    text-decoration: underline;
+}
+
+.CELDATEXTOMSGINI{
+    font-family: "Corbel";
+    font-size: 16px;
+    font-weight: normal;
+    color: #015637;
+    text-align: center;
+    vertical-align: top;
+}
+
+

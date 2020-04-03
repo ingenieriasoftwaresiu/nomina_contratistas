@@ -1,0 +1,186 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-ene-2014, 9:24:16
+    Author     : jorge.correa
+*/
+
+.TITULOTABLAIZQ{
+    font-family: "Candara";
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #116043;
+    text-align: center;
+    
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #000000;
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #000000;
+    
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #000000;
+}
+
+.TITULOTABLADER{
+    font-family: "Candara";
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #116043;
+    text-align: center;
+    
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #000000;
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #000000;    
+}
+
+.TITULOTABLACENTER{
+    font-family: "Candara";
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #116043;
+    text-align: center;
+    
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #000000;
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #000000;
+}
+
+.TEXTOCELDAIZQ{
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: normal;
+    color: #000000;
+    text-align: center;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #000000;
+    
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #000000;
+}
+
+.TEXTOCELDAIZQ:hover{
+    background: #ECEBA3;
+}
+
+.TEXTOCELDADER{
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: normal;
+    color: #000000;
+    text-align: center;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #000000;    
+}
+
+.TEXTOCELDADER:hover{
+    background: #ECEBA3;
+}
+
+.TEXTOCELDACENTER{
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: normal;
+    color: #000000;
+    text-align: center;
+       
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #000000;
+}
+
+.TEXTOCELDACENTER:hover{
+    background: #ECEBA3;
+}
+
+.FILARESULT:hover{
+    background: #ECEBA3;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a{
+    text-decoration: none;   
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:linked{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+.TEXTOEXITO{
+    font-family: 'Candara';
+    font-size: 15px;
+    font-weight: bold;
+    color: #116043;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.TEXTOFALLO{
+    font-family: 'Candara';
+    font-size: 15px;
+    font-weight: bold;
+    color: #FF0000;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.TABLARESULT{    
+    box-shadow: 5px 5px 10px #ccc;
+}

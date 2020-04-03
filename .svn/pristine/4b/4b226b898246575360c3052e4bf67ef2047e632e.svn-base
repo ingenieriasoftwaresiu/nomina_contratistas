@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- CONFIGURACIÓN DE BASE DE DATOS PARA DESARROLLO -->
+
+<muestras>
+        <Users>
+            <driver>com.mysql.jdbc.Driver</driver>
+            <url>jdbc:mysql://localhost:3306/users</url>
+            <userBD>admin</userBD>
+            <passwdBD>2Lb2s4d2l14c1</passwdBD>
+        </Users>
+        <Nomina>
+            <driver>com.mysql.jdbc.Driver</driver>
+            <url>jdbc:mysql://localhost:3306/nomina</url>
+            <userBD>admin</userBD>
+            <passwdBD>2Lb2s4d2l14c1</passwdBD>
+        </Nomina>
+</muestras>
+
+<!--CONFIGURACIÓN DEL AMBIENTE DE PRUEBAS-->
+
+<!--
+<muestras>
+    <Users>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <url>jdbc:mysql://172.30.200.11:3306/users</url>
+        <userBD>admin</userBD>
+        <passwdBD>2Lb2s4d2l14c1</passwdBD>
+    </Users>
+    <Nomina>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <url>jdbc:mysql://172.30.200.11:3306/nomina</url>
+        <userBD>admin</userBD>
+        <passwdBD>2Lb2s4d2l14c1</passwdBD>
+    </Nomina>
+</muestras>
+-->
+
+<!--CONFIGURACIÓN DEL AMBIENTE DE PRODUCCIÓN-->
+
+<!--
+<muestras>
+    <Users>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <url>jdbc:mysql://172.30.100.38:3306/users</url>
+        <userBD>admin</userBD>
+        <passwdBD>2Lb2s4d2l14c1</passwdBD>
+    </Users>
+    <Nomina>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <url>jdbc:mysql://172.30.100.38:3306/nomina</url>
+        <userBD>admin</userBD>
+        <passwdBD>2Lb2s4d2l14c1</passwdBD>
+    </Nomina>
+</muestras>
+-->

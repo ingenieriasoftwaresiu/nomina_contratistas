@@ -1,0 +1,172 @@
+/* 
+    Document   : visualizacion
+    Created on : 23-oct-2013, 11:27:09
+    Author     : jorge.correa
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.TABLARESULT{
+    border-left: 1px solid #116043;
+    border-right: 1px solid #116043;
+    box-shadow: 5px 5px 10px #aaa;
+}
+
+.TEXTORESULT{
+    font-family: "Candara";
+    font-size: 10px;
+    font-weight: normal;
+    color: #015637;
+    text-align: center;
+    vertical-align: middle;
+    border-bottom: 1px solid #116043;
+}
+
+.FILARESULT:hover{
+    background: #ECEBA3;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.TEXTOFALLO{
+    font-family: 'Candara';
+    font-size: 15px;
+    font-weight: bold;
+    color: #FF0000;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.TEXTOEXITO{
+    font-family: 'Candara';
+    font-size: 15px;
+    font-weight: bold;
+    color: #116043;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.TABLAFORM{
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #116043;
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #116043;
+
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #116043;
+
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #116043;
+    
+    box-shadow: 5px 5px 10px #aaa;
+}
+
+.LABELFORMBUSQUEDA{
+    font-family: "Candara";
+    font-size: 13px;
+    font-weight: bold;
+    color: #116043;
+    text-align: center;
+    width: 120px;
+    vertical-align: middle;
+}
+
+.TITULOBUSQUEDA{
+    font-family: "Candara";
+    font-size: 13px;
+    font-weight: bold;
+    color: #FFF;
+    text-align: center;
+    width: 250px;
+    background-color: #116043;
+    vertical-align: middle;
+}
+
+.CAMPOFORMBUSQUEDA{
+    border: 1px solid #116043;
+    background: #FFC;
+    font-family: "Candara";
+    font-size: 12px;	
+    height: 17px;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.CAMPOFORMBUSQUEDA:hover {
+    border: 1px solid #116043;
+    background: #ECEBA3;    
+}
+
+.BOTONFORM{
+    font-family: "Candara";
+    font-size: 12px;
+    background: #116043;
+    color: #FFFFFF;
+    border: 1px solid #116043;
+    height: 20px;
+    width: 80px;
+}
+
+.BOTONFORM:hover{
+    background: #09B262;
+    border: 1px solid #09B262;
+}
+
+.CELDAIMAGENBUSQUEDA{
+    text-align: left;
+    vertical-align: middle;
+    padding-left: 20px;
+    border: 0px solid black;
+}
+
+.CELDACAMPOFORMBUSQUEDA{  
+    width: 150px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.IMAGENBUSQUEDA{
+    border: 0px solid black;
+    width: 20px;
+    height: 20px;
+}
+
+.CELDAICONOREFRESH{
+    text-align:left; 
+    vertical-align: middle;
+    width:27px;
+    padding-top: 0px;
+}
+
+.ICONOREFRESH{
+    width: 27px;
+    height: 23px;
+    border: 0px;
+    vertical-align: middle;
+}
+
+.TEXTOREFRESH{
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: bold;
+    color: #116043;
+    text-align: left;
+    vertical-align: top;
+    width: 800px;
+}
+
+.TEXTOPAGINACION{
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: normal;
+    color: #116043;
+}
+
+a.TEXTOPAGINACION{
+    text-decoration: underline;
+}

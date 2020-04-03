@@ -1,0 +1,207 @@
+
+body{
+    margin: 0px;
+}
+
+/*
+    ESTILOS DE LA CABECERA DE LA APLICACIÓN (header.jsp).
+*/
+
+.TABLAHEADER{
+    width: 100%;
+    border: 1px solid #116043;
+    background-color: #EAEAEB;
+    box-shadow: 5px 5px 5px #aaa;    
+}
+
+.CELDALOGOAPP{
+    text-align: center;
+    vertical-align: middle;
+    width: 10%;
+}
+
+.IMGLOGOAPP{
+    width: 90px;
+    height: 90px;
+    vertical-align: middle;
+}
+
+.CELDATEXTOTITULO{
+    font-family: "Candara";
+    font-weight: bold;
+    font-size: 32px;
+    color: #116043;
+    width: 65%;
+    text-align: left;
+    vertical-align: middle;
+    text-shadow: 5px 5px 5px #94918C;        
+}
+
+.CELDATEXTOTITULOPRINT{
+    font-family: "Candara";
+    font-weight: bold;
+    font-size: 28px;
+    color: #116043;
+    width: 800px;
+    text-align: left;
+    vertical-align: middle;
+    text-shadow: 5px 5px 5px #94918C;        
+}
+
+.CELDATEXTOSUBTITULO{
+    text-align: left;
+    vertical-align: middle;
+    font-family: "Candara";
+    font-weight: bold;
+    font-size: 14px;
+    color: #116043;
+    height: 35px;
+    text-shadow: 5px 5px 5px #94918C;        
+    width: 25%;
+}
+
+/*
+    ESTILOS DEL PIÉ DE PÁGINA DE LA APLICACIÓN (footer.jsp).
+*/
+
+.TABLAFOOTER{
+    width: 100%;
+    border-top: 1px dashed #116043;
+}
+
+.FOOTER{
+    padding-top: 50px;
+}
+
+.CELDATEXTOFOOTER{
+    font-family: "Candara";
+    font-size: 10px;
+    font-weight: normal;
+    color: #116043;
+    text-align: center;
+    padding-left: 0px;
+    width: 60%;
+    text-shadow: 5px 5px 5px #aaa
+}
+
+.CELDATEXTOFOOTERPRINT{
+    font-family: "Candara";
+    font-size: 9px;
+    font-weight: normal;
+    color: #116043;
+    text-align: center;
+    padding-left: 0px;
+    width: 700px;
+    text-shadow: 5px 5px 5px #aaa
+}
+
+.CELDALOGOSIU{
+    text-align: right;
+    vertical-align: middle;
+    width:  20%;
+}
+
+.IMGLOGOSIU{
+    width: 200px;
+    height: 85px;
+    vertical-align: middle;
+}
+
+.CELDALOGOUDEA{
+    text-align: left;
+    vertical-align: middle;
+    width:  250px;
+}
+
+.IMGLOGOUDEA{
+    width: 60px;
+    height: 70px;
+    vertical-align: middle;
+}
+
+/*
+    ESTILOS DE LA PÁGINA DE CIERRE.
+*/
+
+.TEXTOCIERRE{
+    font-family: 'Candara';
+    font-size: 15px;
+    font-weight: bold;
+    color: #FF0000;
+    padding-top: 150px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #116043;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:linked{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #116043;
+}
+
+/*
+    ESTILOS DE LA PÁGINA DE REDIRECCIÓN.
+*/
+
+.TEXTOHOMEBIG{
+    font-family: 'Candara';
+    font-size: 30px;
+    font-weight: bold;
+    color: #116043;
+    text-align: center;
+}
+
+.TEXTOHOMESMALL{
+    font-family: 'Candara';
+    font-size: 20px;
+    font-weight: normal;
+    color: #116043;
+    text-align: center;
+}
+
+.MSGBROWSER{
+    font-family: 'Candara';
+    font-size: 12px;
+    font-weight: normal;
+    color: #505050;
+    text-align: center;
+}
+
+.TEXTOINGSW{
+    font-family: "Candara";
+    font-size: 9px;
+    font-weight: normal;
+    color: #116043;
+    text-align: center;
+    vertical-align: middle;
+    width: 20%;
+}
+
+.IMGLOGOINGSW{
+    width: 85px;
+    height: 70px;
+    vertical-align: middle;
+    padding-top: 3px;
+    padding-bottom: 0px;
+}
+
+.TEXTOMENSAJE{
+    font-family: 'Candara';
+    font-size: 18px;
+    font-weight: bold;
+    color: #116043;
+    text-align: center;
+}
