@@ -1,0 +1,17 @@
+SMAP
+cambiarPorcentaje_jsp.java
+JSP
+*S JSP
+*F
++ 0 cambiarPorcentaje.jsp
+cambiarPorcentaje.jsp
+*L
+5,29:45
+33,23:74
+56,3:97,3
+59,4:106
+63:110,3
+64,8:113
+72:121,3
+73,32:124
+*E
